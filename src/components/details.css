@@ -1,0 +1,32 @@
+.details-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #bcd6e869;
+}
+.prospecto {
+  margin-top: 50px;
+  width: 50vw;
+  font-size: 16px;
+}
+.prospecto h4 {
+  color: #0063a7;
+}
+.prospecto li {
+  list-style: disc;
+  font-size: 13px;
+  list-style: decimal;
+}
+.details-texth2 {
+  color: #0063a7;
+  text-align: left;
+  margin-top: 50px;
+}
+@media (max-width: 520px) {
+  .prospecto {
+    margin-top: 25px;
+    width: 80vw;
+    font-size: 16px;
+  }
+}

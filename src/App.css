@@ -1,0 +1,24 @@
+@import url("https://fonts.cdnfonts.com/css/poppins");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+html,
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  background: #eeeeee10;
+}
+::-webkit-scrollbar-thumb {
+  border: 2px solid #000;
+  background: #ffffff73;
+  border-radius: 5px;
+}
+::selection {
+  background-color: #00aaa6;
+}
