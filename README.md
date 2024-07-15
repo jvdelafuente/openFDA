@@ -1,3 +1,10 @@
+#FETCHING openFDA api
+
+Este "proyecto" viene a raíz de una prueba técnica que realicé, en el que pedian recoger datos de medicamentos de EE.UU directamente desde la api.
+lo dejo aqui ya que me el resultado no me disgusta pese a ser una api que no me entusiasmó como presenta la documentación.
+
+
+
 Datos relevantes:
 
 => Consiste en filtrar por (medicinalproduct, brand_name, generic_name) y el resultado filtrarlo de nuevo para obtener los de "EEUU".
